@@ -18,7 +18,9 @@ Com geometria resultante então é possível processar um eixo medial com PostGi
 
 ## Resultados 
 
-Os resultados preliminares estão disponibilizados na pasta `resultados` e o método descrito em Jupyter Notebooks 
+Os resultados preliminares estão disponibilizados na pasta `resultados` e o método descrito em Jupyter Notebooks, aplicados para uma região do distrito de Moema.
+
+![](imagens/sabia-com-canario.png)
 
 ## Próximos passos
 
